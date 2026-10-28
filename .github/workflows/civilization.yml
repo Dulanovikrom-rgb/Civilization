@@ -1,0 +1,12 @@
+
+name: Civilization Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check automation
+        run: echo "Код цивилизации: автоматизация работает"
