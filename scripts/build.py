@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Разбирает Word-файл из папки source/ на отдельные выпуски.
+"""Разбирает Word-файл (source/ или корень репозитория) на отдельные выпуски.
 
 Создаёт:
   articles/NN.md   - текст выпуска
@@ -79,13 +79,14 @@ def find_image(num):
 
 
 def main():
-    files = sorted(glob.glob("source/*.docx"))
+    files = sorted(glob.glob("source/*.docx")) or sorted(glob.glob("*.docx"))
     if not files:
-        print("ОШИБКА: в папке source/ нет файла .docx")
+        print("ОШИБКА: не найден файл .docx ни в source/, ни в корне репозитория")
         return 1
     if len(files) > 1:
-        print("ОШИБКА: в папке source/ больше одного .docx: %s" % files)
+        print("ОШИБКА: найдено больше одного .docx: %s" % files)
         return 1
+    print("Исходный файл:", files[0])
     items = parse(files[0])
     errors = validate(items)
     if errors:
