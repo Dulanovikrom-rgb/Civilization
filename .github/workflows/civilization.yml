@@ -1,11 +1,29 @@
+name: Civilization
 
-name: Civilization Test
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Режим работы"
+        type: choice
+        default: test
+        options:
+          - test
 
-on: [workflow_dispatch]
+permissions:
+  contents: read
 
 jobs:
-  test:
+  check:
     runs-on: ubuntu-latest
     steps:
-      - name: Check automation
-        run: echo "Civilization automation works"
+      - name: Получить файлы репозитория
+        uses: actions/checkout@v4
+
+      - name: Проверить среду
+        run: |
+          echo "Режим: ${{ inputs.mode }}"
+          echo "Время UTC: $(date -u)"
+          python3 --version
+          (ffmpeg -version | head -n 1) || echo "FFmpeg не найден"
+          ls -la
