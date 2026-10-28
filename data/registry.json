@@ -1,0 +1,452 @@
+[
+  {
+    "id": "01",
+    "title": "Зарождение человечества: первые шаги",
+    "article": "articles/01.md",
+    "prompt": "prompts/01.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "02",
+    "title": "Камень, который изменил всё",
+    "article": "articles/02.md",
+    "prompt": "prompts/02.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "03",
+    "title": "Огонь: первая большая технология",
+    "article": "articles/03.md",
+    "prompt": "prompts/03.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "04",
+    "title": "Охота и собирательство",
+    "article": "articles/04.md",
+    "prompt": "prompts/04.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "05",
+    "title": "Язык: невидимый инструмент",
+    "article": "articles/05.md",
+    "prompt": "prompts/05.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "06",
+    "title": "Первые жилища",
+    "article": "articles/06.md",
+    "prompt": "prompts/06.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "07",
+    "title": "Одежда: защита от климата",
+    "article": "articles/07.md",
+    "prompt": "prompts/07.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "08",
+    "title": "Игла и нить",
+    "article": "articles/08.md",
+    "prompt": "prompts/08.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "09",
+    "title": "Погребения и символы",
+    "article": "articles/09.md",
+    "prompt": "prompts/09.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "10",
+    "title": "Искусство пещер",
+    "article": "articles/10.md",
+    "prompt": "prompts/10.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "11",
+    "title": "Земледелие: семена будущего",
+    "article": "articles/11.md",
+    "prompt": "prompts/11.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "12",
+    "title": "Одомашнивание животных",
+    "article": "articles/12.md",
+    "prompt": "prompts/12.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "13",
+    "title": "Деревня: постоянное поселение",
+    "article": "articles/13.md",
+    "prompt": "prompts/13.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "14",
+    "title": "Керамика: сосуд, который хранит жизнь",
+    "article": "articles/14.md",
+    "prompt": "prompts/14.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "15",
+    "title": "Ткачество: нити становятся тканью",
+    "article": "articles/15.md",
+    "prompt": "prompts/15.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "16",
+    "title": "Колесо: сила вращения",
+    "article": "articles/16.md",
+    "prompt": "prompts/16.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "17",
+    "title": "Металл: медь, бронза, железо",
+    "article": "articles/17.md",
+    "prompt": "prompts/17.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "18",
+    "title": "Письменность: память вне мозга",
+    "article": "articles/18.md",
+    "prompt": "prompts/18.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "19",
+    "title": "Числа и счёт",
+    "article": "articles/19.md",
+    "prompt": "prompts/19.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "20",
+    "title": "Календарь: приручить время",
+    "article": "articles/20.md",
+    "prompt": "prompts/20.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "21",
+    "title": "Ирригация: управлять водой",
+    "article": "articles/21.md",
+    "prompt": "prompts/21.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "22",
+    "title": "Города: новая форма жизни",
+    "article": "articles/22.md",
+    "prompt": "prompts/22.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "23",
+    "title": "Законы: правила для незнакомцев",
+    "article": "articles/23.md",
+    "prompt": "prompts/23.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "24",
+    "title": "Торговля: доверие на расстоянии",
+    "article": "articles/24.md",
+    "prompt": "prompts/24.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "25",
+    "title": "Деньги: общая мера стоимости",
+    "article": "articles/25.md",
+    "prompt": "prompts/25.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "26",
+    "title": "Дороги и мосты",
+    "article": "articles/26.md",
+    "prompt": "prompts/26.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "27",
+    "title": "Корабли и навигация",
+    "article": "articles/27.md",
+    "prompt": "prompts/27.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "28",
+    "title": "Бумага: носитель знания",
+    "article": "articles/28.md",
+    "prompt": "prompts/28.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "29",
+    "title": "Книги и библиотеки",
+    "article": "articles/29.md",
+    "prompt": "prompts/29.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "30",
+    "title": "Игры: зачем человек придумал развлечение",
+    "article": "articles/30.md",
+    "prompt": "prompts/30.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "31",
+    "title": "Математика: язык закономерностей",
+    "article": "articles/31.md",
+    "prompt": "prompts/31.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "32",
+    "title": "Медицина: от наблюдения к доказательству",
+    "article": "articles/32.md",
+    "prompt": "prompts/32.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "33",
+    "title": "Гигиена и канализация",
+    "article": "articles/33.md",
+    "prompt": "prompts/33.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "34",
+    "title": "Механика и простые машины",
+    "article": "articles/34.md",
+    "prompt": "prompts/34.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "35",
+    "title": "Порох и его последствия",
+    "article": "articles/35.md",
+    "prompt": "prompts/35.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "36",
+    "title": "Печатный станок",
+    "article": "articles/36.md",
+    "prompt": "prompts/36.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "37",
+    "title": "Научный метод",
+    "article": "articles/37.md",
+    "prompt": "prompts/37.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "38",
+    "title": "Микроскоп: невидимый мир",
+    "article": "articles/38.md",
+    "prompt": "prompts/38.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "39",
+    "title": "Электричество",
+    "article": "articles/39.md",
+    "prompt": "prompts/39.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "40",
+    "title": "Паровая машина и промышленная революция",
+    "article": "articles/40.md",
+    "prompt": "prompts/40.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "41",
+    "title": "Железная дорога",
+    "article": "articles/41.md",
+    "prompt": "prompts/41.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "42",
+    "title": "Телеграф: сообщение быстрее лошади",
+    "article": "articles/42.md",
+    "prompt": "prompts/42.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "43",
+    "title": "Фотография: память светом",
+    "article": "articles/43.md",
+    "prompt": "prompts/43.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "44",
+    "title": "Вакцины: защита до болезни",
+    "article": "articles/44.md",
+    "prompt": "prompts/44.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "45",
+    "title": "Двигатель внутреннего сгорания",
+    "article": "articles/45.md",
+    "prompt": "prompts/45.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "46",
+    "title": "Самолёт: преодолеть небо",
+    "article": "articles/46.md",
+    "prompt": "prompts/46.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "47",
+    "title": "Компьютер: машина для информации",
+    "article": "articles/47.md",
+    "prompt": "prompts/47.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "48",
+    "title": "Интернет: сеть сетей",
+    "article": "articles/48.md",
+    "prompt": "prompts/48.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "49",
+    "title": "Искусственный интеллект",
+    "article": "articles/49.md",
+    "prompt": "prompts/49.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "50",
+    "title": "Код цивилизации: что сохранить",
+    "article": "articles/50.md",
+    "prompt": "prompts/50.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  }
+]
