@@ -10,6 +10,7 @@ on:
       - "scripts/**"
       - "source/**"
       - "images/**"
+      - "*.docx"
 
 permissions:
   contents: write
@@ -30,20 +31,26 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Установить python-docx
-        run: pip install python-docx
+      - name: Установить библиотеки и шрифты
+        run: |
+          pip install python-docx pillow
+          sudo apt-get install -y fonts-dejavu-core
 
       - name: Разобрать выпуски и проверить
         run: python scripts/build.py
 
+      - name: Нарисовать обложки
+        run: python scripts/covers.py
+
       - name: Сохранить результат в репозитории
+        if: always()
         run: |
           git config user.name "civilization-bot"
           git config user.email "civilization-bot@users.noreply.github.com"
-          git add articles prompts data images/.gitkeep
+          git add articles prompts data covers images/.gitkeep
           if git diff --cached --quiet; then
             echo "Изменений нет"
           else
-            git commit -m "Обновлены выпуски и реестр"
+            git commit -m "Обновлены выпуски, реестр и обложки"
             git push
           fi
