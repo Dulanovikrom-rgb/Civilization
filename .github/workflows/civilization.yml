@@ -2,28 +2,48 @@ name: Civilization
 
 on:
   workflow_dispatch:
-    inputs:
-      mode:
-        description: "Режим работы"
-        type: choice
-        default: test
-        options:
-          - test
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/civilization.yml"
+      - "scripts/**"
+      - "source/**"
+      - "images/**"
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: civilization
+  cancel-in-progress: false
 
 jobs:
-  check:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Получить файлы репозитория
         uses: actions/checkout@v4
 
-      - name: Проверить среду
+      - name: Установить Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Установить python-docx
+        run: pip install python-docx
+
+      - name: Разобрать выпуски и проверить
+        run: python scripts/build.py
+
+      - name: Сохранить результат в репозитории
         run: |
-          echo "Режим: ${{ inputs.mode }}"
-          echo "Время UTC: $(date -u)"
-          python3 --version
-          (ffmpeg -version | head -n 1) || echo "FFmpeg не найден"
-          ls -la
+          git config user.name "civilization-bot"
+          git config user.email "civilization-bot@users.noreply.github.com"
+          git add articles prompts data images/.gitkeep
+          if git diff --cached --quiet; then
+            echo "Изменений нет"
+          else
+            git commit -m "Обновлены выпуски и реестр"
+            git push
+          fi
