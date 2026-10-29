@@ -1,7 +1,7 @@
 [
   {
     "id": "01",
-    "title": "Зарождение человечества: первые шаги",
+    "title": "Чем прикрыть тело",
     "article": "articles/01.md",
     "prompt": "prompts/01.txt",
     "image": null,
@@ -10,7 +10,7 @@
   },
   {
     "id": "02",
-    "title": "Камень, который изменил всё",
+    "title": "Как построить первый шалаш",
     "article": "articles/02.md",
     "prompt": "prompts/02.txt",
     "image": null,
@@ -19,7 +19,7 @@
   },
   {
     "id": "03",
-    "title": "Огонь: первая большая технология",
+    "title": "Где найти первую еду",
     "article": "articles/03.md",
     "prompt": "prompts/03.txt",
     "image": null,
@@ -28,7 +28,7 @@
   },
   {
     "id": "04",
-    "title": "Охота и собирательство",
+    "title": "Как сделать первое орудие",
     "article": "articles/04.md",
     "prompt": "prompts/04.txt",
     "image": null,
@@ -37,7 +37,7 @@
   },
   {
     "id": "05",
-    "title": "Язык: невидимый инструмент",
+    "title": "Как добыть и сохранить огонь",
     "article": "articles/05.md",
     "prompt": "prompts/05.txt",
     "image": null,
@@ -46,7 +46,7 @@
   },
   {
     "id": "06",
-    "title": "Первые жилища",
+    "title": "Как добыть пищу без магазина",
     "article": "articles/06.md",
     "prompt": "prompts/06.txt",
     "image": null,
@@ -55,7 +55,7 @@
   },
   {
     "id": "07",
-    "title": "Одежда: защита от климата",
+    "title": "Как найти воду и сделать её безопаснее",
     "article": "articles/07.md",
     "prompt": "prompts/07.txt",
     "image": null,
@@ -64,7 +64,7 @@
   },
   {
     "id": "08",
-    "title": "Игла и нить",
+    "title": "Как приготовить пищу на огне",
     "article": "articles/08.md",
     "prompt": "prompts/08.txt",
     "image": null,
@@ -73,7 +73,7 @@
   },
   {
     "id": "09",
-    "title": "Погребения и символы",
+    "title": "Как скрутить верёвку",
     "article": "articles/09.md",
     "prompt": "prompts/09.txt",
     "image": null,
@@ -82,7 +82,7 @@
   },
   {
     "id": "10",
-    "title": "Искусство пещер",
+    "title": "Как сделать иглу и сшить одежду",
     "article": "articles/10.md",
     "prompt": "prompts/10.txt",
     "image": null,
@@ -91,7 +91,7 @@
   },
   {
     "id": "11",
-    "title": "Земледелие: семена будущего",
+    "title": "Как сделать обувь",
     "article": "articles/11.md",
     "prompt": "prompts/11.txt",
     "image": null,
@@ -100,7 +100,7 @@
   },
   {
     "id": "12",
-    "title": "Одомашнивание животных",
+    "title": "Как сделать копьё",
     "article": "articles/12.md",
     "prompt": "prompts/12.txt",
     "image": null,
@@ -109,7 +109,7 @@
   },
   {
     "id": "13",
-    "title": "Деревня: постоянное поселение",
+    "title": "Как сделать лук и стрелы",
     "article": "articles/13.md",
     "prompt": "prompts/13.txt",
     "image": null,
@@ -118,7 +118,7 @@
   },
   {
     "id": "14",
-    "title": "Керамика: сосуд, который хранит жизнь",
+    "title": "Как сплести корзину и сеть",
     "article": "articles/14.md",
     "prompt": "prompts/14.txt",
     "image": null,
@@ -127,7 +127,7 @@
   },
   {
     "id": "15",
-    "title": "Ткачество: нити становятся тканью",
+    "title": "Как слепить глиняную посуду",
     "article": "articles/15.md",
     "prompt": "prompts/15.txt",
     "image": null,
@@ -136,7 +136,7 @@
   },
   {
     "id": "16",
-    "title": "Колесо: сила вращения",
+    "title": "Как сохранить еду впрок",
     "article": "articles/16.md",
     "prompt": "prompts/16.txt",
     "image": null,
@@ -145,7 +145,7 @@
   },
   {
     "id": "17",
-    "title": "Металл: медь, бронза, железо",
+    "title": "Как пережить зиму",
     "article": "articles/17.md",
     "prompt": "prompts/17.txt",
     "image": null,
@@ -154,7 +154,7 @@
   },
   {
     "id": "18",
-    "title": "Письменность: память вне мозга",
+    "title": "Как лечить раны",
     "article": "articles/18.md",
     "prompt": "prompts/18.txt",
     "image": null,
@@ -163,7 +163,7 @@
   },
   {
     "id": "19",
-    "title": "Числа и счёт",
+    "title": "Как защитить стоянку от хищников и насекомых",
     "article": "articles/19.md",
     "prompt": "prompts/19.txt",
     "image": null,
@@ -172,7 +172,7 @@
   },
   {
     "id": "20",
-    "title": "Календарь: приручить время",
+    "title": "Как ориентироваться по солнцу",
     "article": "articles/20.md",
     "prompt": "prompts/20.txt",
     "image": null,
@@ -181,7 +181,7 @@
   },
   {
     "id": "21",
-    "title": "Ирригация: управлять водой",
+    "title": "Как ориентироваться по звёздам",
     "article": "articles/21.md",
     "prompt": "prompts/21.txt",
     "image": null,
@@ -190,7 +190,7 @@
   },
   {
     "id": "22",
-    "title": "Города: новая форма жизни",
+    "title": "Как переправиться через реку",
     "article": "articles/22.md",
     "prompt": "prompts/22.txt",
     "image": null,
@@ -199,7 +199,7 @@
   },
   {
     "id": "23",
-    "title": "Законы: правила для незнакомцев",
+    "title": "Как построить прочное жилище",
     "article": "articles/23.md",
     "prompt": "prompts/23.txt",
     "image": null,
@@ -208,7 +208,7 @@
   },
   {
     "id": "24",
-    "title": "Торговля: доверие на расстоянии",
+    "title": "Как устроить очаг и печь",
     "article": "articles/24.md",
     "prompt": "prompts/24.txt",
     "image": null,
@@ -217,7 +217,7 @@
   },
   {
     "id": "25",
-    "title": "Деньги: общая мера стоимости",
+    "title": "Как человек приручил собаку",
     "article": "articles/25.md",
     "prompt": "prompts/25.txt",
     "image": null,
@@ -226,7 +226,7 @@
   },
   {
     "id": "26",
-    "title": "Дороги и мосты",
+    "title": "Как жить сообща",
     "article": "articles/26.md",
     "prompt": "prompts/26.txt",
     "image": null,
@@ -235,7 +235,7 @@
   },
   {
     "id": "27",
-    "title": "Корабли и навигация",
+    "title": "Как передать знание детям",
     "article": "articles/27.md",
     "prompt": "prompts/27.txt",
     "image": null,
@@ -244,7 +244,7 @@
   },
   {
     "id": "28",
-    "title": "Бумага: носитель знания",
+    "title": "Как считать и вести календарь",
     "article": "articles/28.md",
     "prompt": "prompts/28.txt",
     "image": null,
@@ -253,7 +253,7 @@
   },
   {
     "id": "29",
-    "title": "Книги и библиотеки",
+    "title": "Как посеять первое зерно",
     "article": "articles/29.md",
     "prompt": "prompts/29.txt",
     "image": null,
@@ -262,7 +262,7 @@
   },
   {
     "id": "30",
-    "title": "Игры: зачем человек придумал развлечение",
+    "title": "Как собрать и сохранить урожай",
     "article": "articles/30.md",
     "prompt": "prompts/30.txt",
     "image": null,
@@ -271,7 +271,7 @@
   },
   {
     "id": "31",
-    "title": "Математика: язык закономерностей",
+    "title": "Как смолоть зерно и испечь хлеб",
     "article": "articles/31.md",
     "prompt": "prompts/31.txt",
     "image": null,
@@ -280,7 +280,7 @@
   },
   {
     "id": "32",
-    "title": "Медицина: от наблюдения к доказательству",
+    "title": "Как приручить скот",
     "article": "articles/32.md",
     "prompt": "prompts/32.txt",
     "image": null,
@@ -289,7 +289,7 @@
   },
   {
     "id": "33",
-    "title": "Гигиена и канализация",
+    "title": "Как прясть и ткать",
     "article": "articles/33.md",
     "prompt": "prompts/33.txt",
     "image": null,
@@ -298,7 +298,7 @@
   },
   {
     "id": "34",
-    "title": "Механика и простые машины",
+    "title": "Как построить деревню",
     "article": "articles/34.md",
     "prompt": "prompts/34.txt",
     "image": null,
@@ -307,7 +307,7 @@
   },
   {
     "id": "35",
-    "title": "Порох и его последствия",
+    "title": "Как сделать кирпич",
     "article": "articles/35.md",
     "prompt": "prompts/35.txt",
     "image": null,
@@ -316,7 +316,7 @@
   },
   {
     "id": "36",
-    "title": "Печатный станок",
+    "title": "Как выплавить металл",
     "article": "articles/36.md",
     "prompt": "prompts/36.txt",
     "image": null,
@@ -325,7 +325,7 @@
   },
   {
     "id": "37",
-    "title": "Научный метод",
+    "title": "Как сделать колесо",
     "article": "articles/37.md",
     "prompt": "prompts/37.txt",
     "image": null,
@@ -334,7 +334,7 @@
   },
   {
     "id": "38",
-    "title": "Микроскоп: невидимый мир",
+    "title": "Как провести воду на поле",
     "article": "articles/38.md",
     "prompt": "prompts/38.txt",
     "image": null,
@@ -343,7 +343,7 @@
   },
   {
     "id": "39",
-    "title": "Электричество",
+    "title": "Как выкопать колодец",
     "article": "articles/39.md",
     "prompt": "prompts/39.txt",
     "image": null,
@@ -352,7 +352,7 @@
   },
   {
     "id": "40",
-    "title": "Паровая машина и промышленная революция",
+    "title": "Как обмениваться и откуда взялись деньги",
     "article": "articles/40.md",
     "prompt": "prompts/40.txt",
     "image": null,
@@ -361,7 +361,7 @@
   },
   {
     "id": "41",
-    "title": "Железная дорога",
+    "title": "Как записать мысль",
     "article": "articles/41.md",
     "prompt": "prompts/41.txt",
     "image": null,
@@ -370,7 +370,7 @@
   },
   {
     "id": "42",
-    "title": "Телеграф: сообщение быстрее лошади",
+    "title": "Как проложить дорогу и построить мост",
     "article": "articles/42.md",
     "prompt": "prompts/42.txt",
     "image": null,
@@ -379,7 +379,7 @@
   },
   {
     "id": "43",
-    "title": "Фотография: память светом",
+    "title": "Как сохранить чистоту",
     "article": "articles/43.md",
     "prompt": "prompts/43.txt",
     "image": null,
@@ -388,7 +388,7 @@
   },
   {
     "id": "44",
-    "title": "Вакцины: защита до болезни",
+    "title": "Как появились первые законы",
     "article": "articles/44.md",
     "prompt": "prompts/44.txt",
     "image": null,
@@ -397,7 +397,7 @@
   },
   {
     "id": "45",
-    "title": "Двигатель внутреннего сгорания",
+    "title": "Как построить город",
     "article": "articles/45.md",
     "prompt": "prompts/45.txt",
     "image": null,
@@ -406,7 +406,7 @@
   },
   {
     "id": "46",
-    "title": "Самолёт: преодолеть небо",
+    "title": "Как выйти в море",
     "article": "articles/46.md",
     "prompt": "prompts/46.txt",
     "image": null,
@@ -415,7 +415,7 @@
   },
   {
     "id": "47",
-    "title": "Компьютер: машина для информации",
+    "title": "Как сохранить знание: бумага и книги",
     "article": "articles/47.md",
     "prompt": "prompts/47.txt",
     "image": null,
@@ -424,7 +424,7 @@
   },
   {
     "id": "48",
-    "title": "Интернет: сеть сетей",
+    "title": "Как использовать силу воды и ветра",
     "article": "articles/48.md",
     "prompt": "prompts/48.txt",
     "image": null,
@@ -433,7 +433,7 @@
   },
   {
     "id": "49",
-    "title": "Искусственный интеллект",
+    "title": "Как приручить электричество",
     "article": "articles/49.md",
     "prompt": "prompts/49.txt",
     "image": null,
@@ -442,9 +442,459 @@
   },
   {
     "id": "50",
-    "title": "Код цивилизации: что сохранить",
+    "title": "Что сохранить, если всё потеряно",
     "article": "articles/50.md",
     "prompt": "prompts/50.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "51",
+    "title": "Как заменить силу мышц силой пара",
+    "article": "articles/51.md",
+    "prompt": "prompts/51.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "52",
+    "title": "Как добыть топливо из земли: уголь и нефть",
+    "article": "articles/52.md",
+    "prompt": "prompts/52.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "53",
+    "title": "Как делать железо и сталь в больших количествах",
+    "article": "articles/53.md",
+    "prompt": "prompts/53.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "54",
+    "title": "Как построить железную дорогу",
+    "article": "articles/54.md",
+    "prompt": "prompts/54.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "55",
+    "title": "Как построить фабрику",
+    "article": "articles/55.md",
+    "prompt": "prompts/55.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "56",
+    "title": "Как измерять точно: меры, весы и часы",
+    "article": "articles/56.md",
+    "prompt": "prompts/56.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "57",
+    "title": "Как сделать стекло и линзу",
+    "article": "articles/57.md",
+    "prompt": "prompts/57.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "58",
+    "title": "Как увидеть невидимое: микроскоп",
+    "article": "articles/58.md",
+    "prompt": "prompts/58.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "59",
+    "title": "Как найти причину болезни",
+    "article": "articles/59.md",
+    "prompt": "prompts/59.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "60",
+    "title": "Как победить заразу: вакцины",
+    "article": "articles/60.md",
+    "prompt": "prompts/60.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "61",
+    "title": "Как оперировать: обезболивание и чистота",
+    "article": "articles/61.md",
+    "prompt": "prompts/61.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "62",
+    "title": "Как сделать антибиотик",
+    "article": "articles/62.md",
+    "prompt": "prompts/62.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "63",
+    "title": "Как очистить город: водопровод, хлор и канализация",
+    "article": "articles/63.md",
+    "prompt": "prompts/63.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "64",
+    "title": "Как накормить миллиарды: удобрения и селекция",
+    "article": "articles/64.md",
+    "prompt": "prompts/64.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "65",
+    "title": "Как сохранить еду без соли: консервы и холод",
+    "article": "articles/65.md",
+    "prompt": "prompts/65.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "66",
+    "title": "Как сделать бетон",
+    "article": "articles/66.md",
+    "prompt": "prompts/66.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "67",
+    "title": "Как построить небоскрёб",
+    "article": "articles/67.md",
+    "prompt": "prompts/67.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "68",
+    "title": "Как послать сообщение на расстояние: телеграф",
+    "article": "articles/68.md",
+    "prompt": "prompts/68.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "69",
+    "title": "Как передать голос: телефон",
+    "article": "articles/69.md",
+    "prompt": "prompts/69.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "70",
+    "title": "Как передать сигнал без проводов: радио",
+    "article": "articles/70.md",
+    "prompt": "prompts/70.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "71",
+    "title": "Как зафиксировать мгновение: фотография",
+    "article": "articles/71.md",
+    "prompt": "prompts/71.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "72",
+    "title": "Как показать картинку на расстоянии: телевидение",
+    "article": "articles/72.md",
+    "prompt": "prompts/72.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "73",
+    "title": "Как построить автомобиль",
+    "article": "articles/73.md",
+    "prompt": "prompts/73.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "74",
+    "title": "Как взлететь: самолёт",
+    "article": "articles/74.md",
+    "prompt": "prompts/74.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "75",
+    "title": "Как выйти в космос: ракета",
+    "article": "articles/75.md",
+    "prompt": "prompts/75.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "76",
+    "title": "Как узнать, где ты: спутники и навигация",
+    "article": "articles/76.md",
+    "prompt": "prompts/76.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "77",
+    "title": "Как получить энергию из атома",
+    "article": "articles/77.md",
+    "prompt": "prompts/77.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "78",
+    "title": "Как получить энергию Солнца",
+    "article": "articles/78.md",
+    "prompt": "prompts/78.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "79",
+    "title": "Как сделать транзистор и чип",
+    "article": "articles/79.md",
+    "prompt": "prompts/79.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "80",
+    "title": "Как заставить машину считать",
+    "article": "articles/80.md",
+    "prompt": "prompts/80.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "81",
+    "title": "Как научить компьютер программе",
+    "article": "articles/81.md",
+    "prompt": "prompts/81.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "82",
+    "title": "Как хранить данные",
+    "article": "articles/82.md",
+    "prompt": "prompts/82.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "83",
+    "title": "Как соединить компьютеры: интернет",
+    "article": "articles/83.md",
+    "prompt": "prompts/83.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "84",
+    "title": "Как найти нужное в океане информации",
+    "article": "articles/84.md",
+    "prompt": "prompts/84.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "85",
+    "title": "Как защитить тайну: шифры",
+    "article": "articles/85.md",
+    "prompt": "prompts/85.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "86",
+    "title": "Как заплатить без наличных",
+    "article": "articles/86.md",
+    "prompt": "prompts/86.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "87",
+    "title": "Как заставить машину учиться",
+    "article": "articles/87.md",
+    "prompt": "prompts/87.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "88",
+    "title": "Как работает искусственный интеллект",
+    "article": "articles/88.md",
+    "prompt": "prompts/88.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "89",
+    "title": "Как проверить, что это правда: научный метод",
+    "article": "articles/89.md",
+    "prompt": "prompts/89.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "90",
+    "title": "Как отличить случайность от закономерности",
+    "article": "articles/90.md",
+    "prompt": "prompts/90.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "91",
+    "title": "Как прочесть код жизни",
+    "article": "articles/91.md",
+    "prompt": "prompts/91.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "92",
+    "title": "Как устроена энергосистема",
+    "article": "articles/92.md",
+    "prompt": "prompts/92.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "93",
+    "title": "Как жить в пределах планеты",
+    "article": "articles/93.md",
+    "prompt": "prompts/93.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "94",
+    "title": "Как договориться миллиардам",
+    "article": "articles/94.md",
+    "prompt": "prompts/94.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "95",
+    "title": "Как научить миллионы",
+    "article": "articles/95.md",
+    "prompt": "prompts/95.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "96",
+    "title": "Как восстановить общество после катастрофы",
+    "article": "articles/96.md",
+    "prompt": "prompts/96.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "97",
+    "title": "Как не потерять знание",
+    "article": "articles/97.md",
+    "prompt": "prompts/97.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "98",
+    "title": "Как жить с мощными технологиями",
+    "article": "articles/98.md",
+    "prompt": "prompts/98.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "99",
+    "title": "Что дальше",
+    "article": "articles/99.md",
+    "prompt": "prompts/99.txt",
+    "image": null,
+    "status": "draft",
+    "sources": []
+  },
+  {
+    "id": "100",
+    "title": "Код цивилизации: итог",
+    "article": "articles/100.md",
+    "prompt": "prompts/100.txt",
     "image": null,
     "status": "draft",
     "sources": []
